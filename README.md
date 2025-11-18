@@ -1,3 +1,4 @@
+<!-- Header Banner with Gradient & Typing Animation -->
 <h1 align="center">
   <span style="background: linear-gradient(90deg,#0ea5e9,#ff6a95,#a855f7);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">
     ✨ Hi, I'm Joy Chanda ✨
@@ -5,9 +6,10 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Enthusiast;UI/UX+Designer" />
+  Frontend Developer • MERN Stack Enthusiast • UI/UX Designer
 </h3>
 
+<!-- Unique Visitor Counter -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/joychanda/count.svg" />
 </p>
@@ -36,9 +38,7 @@ I love crafting **smooth UI**, **modern UX**, and **functional MERN applications
 
 ## 🎨 UI/UX Toolbox  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps" width="50" style="margin:5px;" />
-  <img src="https://skillicons.dev/icons?i=adobexd,illustrator" width="50" style="margin:5px;" />
-  <img src="https://skillicons.dev/icons?i=framer" width="50" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,adobexd,illustrator,framer" width="50" style="margin:5px;" />
 </p>
 - Wireframing  
 - Component Design  
@@ -56,10 +56,30 @@ I love crafting **smooth UI**, **modern UX**, and **functional MERN applications
 
 ---
 
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vue,express,nodejs,mongodb,firebase,git,figma,ps,c&perline=7" />
-</p>
+## 🛠️ Tech Stack
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="45"/><br>Vue.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ps" width="45"/><br>Photoshop</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="45"/><br>C Lang</td>
+  </tr>
+</table>
 
 ---
 
