@@ -1,8 +1,13 @@
-<!-- Header Banner -->
-<h1 align="center">✨ Hi, I'm <span style="color:#0ea5e9;">Joy Chanda</span> ✨</h1>
-<h3 align="center">Frontend Developer • MERN Stack • UI/UX Designer</h3>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#0ea5e9,#ff6a95,#a855f7);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">
+    ✨ Hi, I'm Joy Chanda ✨
+  </span>
+</h1>
 
-<!-- Unique Visitor Counter -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Enthusiast;UI/UX+Designer" />
+</h3>
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/joychanda/count.svg" />
 </p>
@@ -18,23 +23,23 @@ I love crafting **smooth UI**, **modern UX**, and **functional MERN applications
 ---
 
 ## 🧠 Soft Skills  
-<table>
-<tr>
-<td>🌟 Problem Solving</td>
-<td>🤝 Team Collaboration</td>
-<td>🎯 Focus & Dedication</td>
-</tr>
-<tr>
-<td>📌 Creativity</td>
-<td>🧩 Critical Thinking</td>
-<td>💬 Communication</td>
-</tr>
-</table>
+<p align="center">
+  <span style="background:#0ea5e9;color:#fff;padding:5px 10px;border-radius:10px;margin:3px;">Problem Solving</span>
+  <span style="background:#ff6a95;color:#fff;padding:5px 10px;border-radius:10px;margin:3px;">Team Collaboration</span>
+  <span style="background:#a855f7;color:#fff;padding:5px 10px;border-radius:10px;margin:3px;">Focus & Dedication</span>
+  <span style="background:#00c6ff;color:#fff;padding:5px 10px;border-radius:10px;margin:3px;">Creativity</span>
+  <span style="background:#ffb347;color:#fff;padding:5px 10px;border-radius:10px;margin:3px;">Critical Thinking</span>
+  <span style="background:#f97316;color:#fff;padding:5px 10px;border-radius:10px;margin:3px;">Communication</span>
+</p>
 
 ---
 
 ## 🎨 UI/UX Toolbox  
-- Figma  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps" width="50" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=adobexd,illustrator" width="50" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=framer" width="50" style="margin:5px;" />
+</p>
 - Wireframing  
 - Component Design  
 - Color Psychology  
@@ -44,10 +49,9 @@ I love crafting **smooth UI**, **modern UX**, and **functional MERN applications
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/joy-chanda/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/joy-chanda/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin:5px;" /></a>
+  <a href="https://github.com/joychanda" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" style="margin:5px;" /></a>
 </p>
 
 ---
@@ -56,33 +60,6 @@ I love crafting **smooth UI**, **modern UX**, and **functional MERN applications
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vue,express,nodejs,mongodb,firebase,git,figma,ps,c&perline=7" />
 </p>
-
----
-
-## 🛠️ Tech Stack with Names  
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="45"/><br>Vue.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>Firebase</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ps" width="45"/><br>Photoshop</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="45"/><br>C Lang</td>
-  </tr>
-</table>
 
 ---
 
@@ -108,7 +85,7 @@ I love crafting **smooth UI**, **modern UX**, and **functional MERN applications
 
 ---
 
-## 📈 Contributions  
+## 📈 Contributions Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joychanda&bg_color=0d1117&color=00eaff&line=0ea5e9&point=ffffff&area=true&hide_border=true" />
 </p>
@@ -116,7 +93,7 @@ I love crafting **smooth UI**, **modern UX**, and **functional MERN applications
 ---
 
 ## ✨ Fun Fact  
-I love turning random ideas into **clean, modern and user-friendly digital products**.
+I love turning random ideas into **clean, modern, and user-friendly digital products**.
 
 ---
 
