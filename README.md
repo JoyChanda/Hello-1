@@ -54,20 +54,54 @@ I’m **Joy Chanda**, a **Frontend-focused MERN Developer & UI/UX Designer** fro
 
 ## 🎭 Dual Personality Mode
 
-| ☀️ Day Mode (Light) | 🌙 Night Mode (Dark) |
-|--------------------|---------------------|
-| UI Engineering     | API Integration     |
-| Design Systems     | State Management    |
-| Animations & UX    | Database Logic      |
-| Visual Polish      | Performance Fixes   |
+| Task | Description |
+|------|------------|
+| UI Engineering     | Build beautiful interfaces |
+| Design Systems     | Consistent components & styles |
+| Animations & UX    | Smooth interactions & micro-animations |
+| Visual Polish      | Fine tuning UI visuals |
+
+</details>
+
+<details>
+  <summary>🌙 Night Mode (Dark)</summary>
+
+| Task | Description |
+|------|------------|
+| API Integration     | Backend communication & API design |
+| State Management    | Efficient app state handling |
+| Database Logic      | CRUD, queries & optimization |
+| Performance Fixes   | Optimize speed & responsiveness |
+
+</details>
+
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vue,nodejs,express,mongodb,firebase,git,figma,ps" />
-</p>
+## 🛠️ Tech Stack
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="45"/><br>Vue.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ps" width="45"/><br>Photoshop</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="45"/><br>C Lang</td>
+  </tr>
+</table>
 
 ---
 
