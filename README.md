@@ -1,4 +1,4 @@
-<!-- ===================== SPACE EXPLORER × DUAL PERSONALITY v2 ===================== -->
+<!-- ===================== SPACE EXPLORER × DUAL PERSONALITY v3 ===================== -->
 
 <!-- 🌞 / 🌙 DAY – NIGHT BANNER -->
 <p align="center">
@@ -74,10 +74,10 @@ I’m **Joy Chanda**, a **Frontend-focused MERN Developer & UI/UX Designer** fro
 ## 📌 Featured Missions (Projects)
 
 <p align="center">
-  <a href="[https://github.com/joychanda/garments-tracker](https://github.com/JoyChanda/B12-A10_PawMart)">
+  <a href="https://github.com/joychanda/garments-tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joychanda&repo=garments-tracker&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="[https://github.com/joychanda/insightboard](https://github.com/JoyChanda/InsightBoard-Client-)">
+  <a href="https://github.com/joychanda/insightboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joychanda&repo=insightboard&theme=tokyonight&hide_border=true" />
   </a>
 </p>
@@ -89,10 +89,10 @@ I’m **Joy Chanda**, a **Frontend-focused MERN Developer & UI/UX Designer** fro
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/joychanda/joychanda/output/github-contribution-grid-snake-dark.svg" />
+      srcset="https://raw.githubusercontent.com/JoyChanda/Hello-1/output/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/joychanda/joychanda/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/joychanda/joychanda/output/github-contribution-grid-snake-dark.svg" />
+      srcset="https://raw.githubusercontent.com/JoyChanda/Hello-1/output/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/JoyChanda/Hello-1/output/output/github-contribution-grid-snake-dark.svg" width="700" alt="Contribution Snake" />
   </picture>
 </p>
 
