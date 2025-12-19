@@ -18,7 +18,7 @@ Joy Chanda
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=700&lines=Space+Explorer+Developer;Frontend+Engineer;MERN+Stack+Developer;UI%2FUX+Designer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=700&lines=Frontend+Engineer;MERN+Stack+Developer;UI%2FUX+Designer" />
 </h3>
 
 <p align="center">
