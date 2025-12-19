@@ -74,17 +74,20 @@ I’m **Joy Chanda**, a **Frontend-focused MERN Developer & UI/UX Designer** fro
 ## 📌 Featured Missions (Projects)
 
 <p align="center">
-  <a href="https://github.com/joychanda/garments-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joychanda&repo=garments-tracker&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/joychanda/insightboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joychanda&repo=insightboard&theme=tokyonight&hide_border=true" />
-  </a>
+  <b>🐾 PawMart</b> &nbsp; | &nbsp; 
+  <a href="https://github.com/JoyChanda/B12-A10_PawMart">Client</a> &nbsp; | &nbsp; 
+  <a href="https://github.com/JoyChanda/B12-A10-PawMart-Server">Server</a>
+</p>
+
+<p align="center">
+  <b>📊 InsightBoard</b> &nbsp; | &nbsp; 
+  <a href="https://github.com/JoyChanda/InsightBoard-Client-">Client</a> &nbsp; | &nbsp; 
+  <a href="https://github.com/JoyChanda/InsightBoard-Server-">Server</a>
 </p>
 
 ---
 
-## 🐍 Space Snake — Contribution Trail
+## 🐍 Contributions & Activity Trail
 
 <p align="center">
   <picture>
@@ -97,8 +100,18 @@ I’m **Joy Chanda**, a **Frontend-focused MERN Developer & UI/UX Designer** fro
 </p>
 
 <p align="center">
-<sub>🐍 My last year’s commits mapped across the galaxy</sub>
+<sub>🐍 Last year’s commits mapped across the galaxy</sub>
 </p>
+
+---
+
+## 📈 Yearly Contributions Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joychanda&bg_color=0d1117&color=00eaff&line=0ea5e9&point=ffffff&area=true&hide_border=true&radius=5" style="filter: drop-shadow(0 0 8px #00eaff); transition: all 0.5s ease-in-out;" />
+</p>
+
+<p align="center"><sub>✨ Smooth commits trail with subtle glow effect</sub></p>
 
 ---
 
