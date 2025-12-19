@@ -74,10 +74,10 @@ I’m **Joy Chanda**, a **Frontend-focused MERN Developer & UI/UX Designer** fro
 ## 📌 Featured Missions (Projects)
 
 <p align="center">
-  <a href="https://github.com/joychanda/garments-tracker">
+  <a href="[https://github.com/joychanda/garments-tracker](https://github.com/JoyChanda/B12-A10_PawMart)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joychanda&repo=garments-tracker&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/joychanda/insightboard">
+  <a href="[https://github.com/joychanda/insightboard](https://github.com/JoyChanda/InsightBoard-Client-)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joychanda&repo=insightboard&theme=tokyonight&hide_border=true" />
   </a>
 </p>
