@@ -9,12 +9,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # ✅ Checkout repo — এই জায়গায় paste করবে
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          persist-credentials: true   # important for push
+          persist-credentials: true
           fetch-depth: 0
 
+      # Generate snake animation
       - name: Generate Snake
         uses: platane/snk@v3
         with:
@@ -23,6 +25,7 @@ jobs:
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Commit & push
       - name: Commit & Push Snake
         run: |
           git config user.name "github-actions[bot]"
