@@ -55,6 +55,7 @@ I’m **Joy Chanda**, a **Frontend-focused MERN Developer & UI/UX Designer** fro
 ## 🎭 Dual Personality Mode
 <details>
 <summary>☀️ Day Mode (Light)</summary>
+  
 | Task | Description |
 |------|------------|
 | UI Engineering     | Build beautiful interfaces |
