@@ -1,15 +1,21 @@
 name: Generate Snake
 
 on:
+  workflow_dispatch:   # manual run
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # daily update
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true   # important for push
+          fetch-depth: 0
+
+      - name: Generate Snake
         uses: platane/snk@v3
         with:
           github_user_name: joychanda
@@ -17,10 +23,12 @@ jobs:
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: output
+      - name: Commit & Push Snake
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/*.svg
+          git commit -m "Update snake contribution graph" || echo "No changes to commit"
+          git push origin HEAD:output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
