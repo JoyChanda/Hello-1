@@ -1,15 +1,13 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQEP1v5GY8vnOQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYixoQHQAc-/0/1763495848462?e=1767830400&v=beta&t=bWGnbIhLPRp94bHqbuoFeH5PzF-5tRxg8LEpNAZAUak" 
-       alt="Joy Chanda Banner" 
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEP1v5GY8vnOQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYixoQHQAc-/0/1763495848462?e=1767830400&v=beta&t=bWGnbIhLPRp94bHqbuoFeH5PzF-5tRxg8LEpNAZAUak"
+       alt="Joy Chanda Banner"
        width="100%" />
 </p>
 
-<h1 align="center">
-🚀 Joy Chanda
-</h1>
+<h1 align="center">🚀 Joy Chanda</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;UI%2FUX+Designer;Space+Explorer+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=38bdf8&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;UI%2FUX+Designer;Designing+Clean+User+Experiences" />
 </h3>
 
 <p align="center">
@@ -26,8 +24,7 @@
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RqcHB3YTR5cHVpMGE2bjhsYXFvb2RwaGdrZW50NTViMGpqMnJtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
-       alt="Cool Dev Cartoon"
-       width="280" />
+       width="260" />
 </p>
 
 ---
@@ -35,70 +32,48 @@
 ## 🧑‍🚀 About Me
 
 I’m **Joy Chanda**, a frontend-focused **MERN Developer & UI/UX Designer** from Bangladesh 🇧🇩  
-I enjoy building **clean, scalable, and user-centric web applications**.
+I build **clean, scalable, and user-centric web applications** with strong visual polish.
 
-🎯 Recruiter Snapshot:
-- Strong React & Tailwind skills  
-- Design-first mindset  
-- Experience with dashboards & full-stack systems  
+**Recruiter Snapshot**
+- ⚛️ React + Tailwind specialist  
+- 🎨 Design-first mindset  
+- 📊 Dashboard & full-stack project experience  
 
 ---
 
-## 🎭 Dual Personality Mode (Click to Toggle)
+## 🎭 Dual Personality Mode
 
 <details>
-  <summary><b>☀️ Day Mode (Light)</b></summary>
+  <summary><b>☀️ Day Mode — UI Focus</b></summary>
 
-| Focus Area |
-|-----------|
-| UI Engineering |
-| Design Systems |
-| Animations & UX |
-| Visual Polish |
+- UI Engineering  
+- Design Systems  
+- Animations & UX  
+- Visual Polish  
 
 </details>
 
 <details>
-  <summary><b>🌙 Night Mode (Dark)</b></summary>
+  <summary><b>🌙 Night Mode — Logic Focus</b></summary>
 
-| Focus Area |
-|-----------|
-| API Integration |
-| State Management |
-| Database Logic |
-| Performance Fixes |
+- API Integration  
+- State Management  
+- Database Logic  
+- Performance Fixes  
 
 </details>
 
+---
 
 ## 🛠️ Tech Stack
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="45"/><br>Vue.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>Firebase</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ps" width="45"/><br>Photoshop</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="45"/><br>C Lang</td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vue,bootstrap,express,nodejs,mongodb,firebase,git,figma,ps,c" />
+</p>
 
 ---
 
-## 📌 Featured Missions (Projects)
+## 📌 Featured Missions
 
 <p align="center">
   🐾 <b>PawMart</b><br/>
@@ -114,56 +89,41 @@ I enjoy building **clean, scalable, and user-centric web applications**.
 
 ---
 
-## 🐍 Space Snake — Contribution Trail
+## 🐍 Contribution Trail (Last Year)
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/JoyChanda/Hello-1/output/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/JoyChanda/Hello-1/output/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/JoyChanda/Hello-1/output/output/github-contribution-grid-snake-dark.svg"
-         width="700" />
+         width="720" />
   </picture>
 </p>
 
-<p align="center">
-<sub>🐍 Last year’s commits flowing through space</sub>
-</p>
+<p align="center"><sub>🐍 Commits flowing through time</sub></p>
 
 ---
 
-## 📈 Contributions Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joychanda&bg_color=0d1117&color=00eaff&line=38bdf8&point=ffffff&area=true&hide_border=true"
-       style="filter: drop-shadow(0 0 8px #38bdf8);" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=joychanda&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joychanda&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Streak Mode
+## 📈 Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=joychanda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="GitHub Activity Stats"
-  />
+    src="https://github-readme-activity-graph.vercel.app/graph?username=joychanda&bg_color=0d1117&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true"
+    width="100%" />
 </p>
 
-<p align="center"><sub>Consistency over time</sub></p>
+<p align="center"><sub>Consistency & momentum over the year</sub></p>
 
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=joychanda&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joychanda&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -171,10 +131,10 @@ I enjoy building **clean, scalable, and user-centric web applications**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joy-chanda/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
   </a>
   <a href="https://github.com/joychanda">
-    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+    <img src="https://skillicons.dev/icons?i=github" width="42"/>
   </a>
 </p>
 
@@ -183,5 +143,3 @@ I enjoy building **clean, scalable, and user-centric web applications**.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:a78bfa&height=120&section=footer&text=Exploring%20Beyond%20Code&fontColor=ffffff&fontSize=18" />
 </p>
-
-<!-- ===================== END ===================== -->
