@@ -157,10 +157,13 @@ I enjoy building **clean, scalable, and user-centric web applications**.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=joychanda&theme=tokyonight&hide_border=true&cache_seconds=21600"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=joychanda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Activity Stats"
   />
 </p>
+
+<p align="center"><sub>Consistency over time</sub></p>
+
 
 ---
 
