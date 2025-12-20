@@ -1,7 +1,8 @@
 <!-- ===================== SPACE EXPLORER × DUAL PERSONALITY v5 ===================== -->
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQEP1v5GY8vnOQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYixoQHQAc-/0/1763495848462?e=1764806400&v=beta&t=MRPZjUxcZlcZlAQPYzKxUoKI9fp47Vw-TAKrwkIiRpE"
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEP1v5GY8vnOQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYixoQHQAc-/0/1763495848462?e=1764806400&v=beta&t=MRPZjUxcZlcZlAQPYzKxUoKI9fp47Vw-TAKrwkIiRpE" 
+       alt="Joy Chanda Banner" 
        width="100%" />
 </p>
 
@@ -65,13 +66,31 @@ I enjoy building **clean, scalable, and user-centric web applications**.
 
 </details>
 
----
 
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vue,nodejs,express,mongodb,firebase,git,figma,ps" />
-</p>
+## 🛠️ Tech Stack
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="45"/><br>Vue.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ps" width="45"/><br>Photoshop</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="45"/><br>C Lang</td>
+  </tr>
+</table>
 
 ---
 
@@ -133,8 +152,15 @@ I enjoy building **clean, scalable, and user-centric web applications**.
 ## 🔥 Streak Mode
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joychanda&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=joychanda&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=joychanda&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=joychanda&theme=tokyonight&hide_border=true" />
+  </picture>
 </p>
+
 
 ---
 
