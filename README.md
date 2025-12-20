@@ -1,5 +1,3 @@
-<!-- ===================== SPACE EXPLORER × DUAL PERSONALITY v5 ===================== -->
-
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQEP1v5GY8vnOQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYixoQHQAc-/0/1763495848462?e=1767830400&v=beta&t=bWGnbIhLPRp94bHqbuoFeH5PzF-5tRxg8LEpNAZAUak" 
        alt="Joy Chanda Banner" 
@@ -24,6 +22,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Frontend%20%7C%20MERN-22c55e?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RqcHB3YTR5cHVpMGE2bjhsYXFvb2RwaGdrZW50NTViMGpqMnJtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
+       alt="Cool Dev Cartoon"
+       width="280" />
 </p>
 
 ---
