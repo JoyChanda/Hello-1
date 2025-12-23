@@ -108,7 +108,7 @@ I build **clean, scalable, and user-centric web applications** with strong visua
 
 ---
 
-## 🐍 Contribution Trail (Last Year)
+## 🐍 Contribution Trail
 
 <p align="center">
   <picture>
@@ -132,6 +132,20 @@ I build **clean, scalable, and user-centric web applications** with strong visua
 </p>
 
 <p align="center"><sub>Consistency & momentum over the year</sub></p>
+
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph
+    ?username=joychanda
+    &theme=github-compact
+    &bg_color=0d1117
+    &color=7dd3fc
+    &line=38bdf8
+    &point=ffffff
+    &area=true
+    &hide_border=true"
+  />
+</p>
 
 ---
 
