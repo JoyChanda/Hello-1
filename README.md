@@ -4,17 +4,29 @@
        width="100%" />
 </p>
 
-<h1 align="center">🚀 Joy Chanda</h1>
+---
+<h1 align="center">🔵🔴 Joy Chanda</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=38bdf8&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;UI%2FUX+Designer;Designing+Clean+User+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=Poppins
+  &size=22
+  &pause=1200
+  &color=004D98
+  &center=true
+  &vCenter=true
+  &width=700
+  &lines=Frontend+Developer;MERN+Stack+Developer;UI%2FUX+Designer;Designing+Clean+User+Experiences" />
 </h3>
 
 <p align="center">
-🌌 Building beautiful UI by day &nbsp;|&nbsp; Engineering logic by night
+  <span style="color:#A50044;">🌌 Building beautiful UI by day</span>
+  &nbsp;|&nbsp;
+  <span style="color:#004D98;">Engineering logic by night ⚙️</span>
 </p>
 
 ---
+
 
 ## 🧑‍💼 Mission Status
 
