@@ -33,15 +33,21 @@
 
 ---
 
-## 🧑‍🚀 About Me
+<h2 align="center">🧑‍🚀 About Me</h2>
 
-I’m **Joy Chanda**, a frontend-focused **MERN Developer & UI/UX Designer** from Bangladesh 🇧🇩  
-I build **clean, scalable, and user-centric web applications** with strong visual polish.
+<p align="center">
+  I’m <b>Joy Chanda</b>, a frontend-focused <b>MERN Developer</b> & <b>UI/UX Designer</b> from Bangladesh 🇧🇩<br/>
+  I build clean, scalable, and user-centric web applications with strong visual polish.
+</p>
 
-**Recruiter Snapshot**
-- ⚛️ React + Tailwind specialist  
-- 🎨 Design-first mindset  
-- 📊 Dashboard & full-stack project experience  
+<h3 align="center">Recruiter Snapshot</h3>
+
+<p align="center">
+  ⚛️ <b>React + Tailwind specialist</b><br/>
+  🎨 <b>Design-first mindset</b><br/>
+  📊 <b>Dashboard & full-stack project experience</b>
+</p>
+
 
 ---
 
