@@ -8,15 +8,7 @@
 <h1 align="center">🔵🔴 Joy Chanda</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com
-  ?font=Poppins
-  &size=22
-  &pause=1200
-  &color=004D98
-  &center=true
-  &vCenter=true
-  &width=700
-  &lines=Frontend+Developer;MERN+Stack+Developer;UI%2FUX+Designer;Designing+Clean+User+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=004D98&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;UI%2FUX+Designer;Designing+Clean+User+Experiences" />
 </h3>
 
 <p align="center">
