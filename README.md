@@ -135,7 +135,7 @@ I build **clean, scalable, and user-centric web applications** with strong visua
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joychanda/Hello-1/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/joychanda/Hello-1/output/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
