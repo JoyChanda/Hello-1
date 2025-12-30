@@ -169,14 +169,33 @@ Grow consistently through real-world projects, design systems, and clean code.
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/joy-chanda/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
-  </a>
-  <a href="https://github.com/joychanda">
-    <img src="https://skillicons.dev/icons?i=github" width="42"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="padding:18px;">
+      <img
+        src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:a78bfa&height=2"
+      />
+      <br/><br/>
+
+      <a href="https://www.linkedin.com/in/joy-chanda/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/joychanda" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="48"/>
+      </a>
+
+      <br/><br/>
+      <sub>Let’s connect & build something meaningful 🚀</sub>
+      <br/><br/>
+
+      <img
+        src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,100:38bdf8&height=2"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
