@@ -1,21 +1,19 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQF6CLxWliAScA/profile-displaybackgroundimage-shrink_350_1400/B56Ztw0zurKgAY-/0/1767124453470?e=1768435200&v=beta&t=hu5FibnUjlSpafq-sm03zoijLzL8ZzqDNx2tKx-wWcc"
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEP1v5GY8vnOQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYixoQHQAc-/0/1763495848462?e=1767830400&v=beta&t=bWGnbIhLPRp94bHqbuoFeH5PzF-5tRxg8LEpNAZAUak"
        alt="Joy Chanda Banner"
        width="100%" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Joy+Chanda" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1200&color=38bdf8&center=true&vCenter=true&width=600&lines=Joy+Chanda" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;UI%2FUX+Designer;Designing+Clean+User+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=a78bfa&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;UI%2FUX+Designer;Designing+Clean+User+Experiences" />
 </h3>
 
 <p align="center">
-  🌌 Building beautiful UI by day &nbsp;|&nbsp; Engineering logic by night ⚙️
+🌌 Building beautiful UI by day &nbsp;|&nbsp; Engineering logic by night ⚙️
 </p>
 
 ---
@@ -27,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RqcHB3YTR5cHVpMGE2bjhsYXFvb2RwaGdrZW50NTViMGpqMnJtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
+  <img src="https://media2.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif"
        width="260" />
 </p>
 
@@ -35,38 +33,35 @@
 
 ## 🧑‍🚀 About Me
 
-<p align="center">
-  I’m <b>Joy Chanda</b>, a frontend-focused <b>MERN Developer</b> & <b>UI/UX Designer</b> from Bangladesh 🇧🇩<br/>
-  I build clean, scalable, and user-centric web applications with strong visual polish.
-</p>
+I’m **Joy Chanda**, a frontend-focused **MERN Developer & UI/UX Designer** from Bangladesh 🇧🇩  
+I build **clean, scalable, and user-centric web applications** with strong visual polish.
 
-<p align="center">
-  ⚛️ React + Tailwind specialist <br/>
-  🎨 Design-first mindset <br/>
-  📊 Dashboard & full-stack project experience
-</p>
+**Recruiter Snapshot**
+- ⚛️ React + Tailwind specialist  
+- 🎨 Design-first mindset  
+- 📊 Dashboard & full-stack project experience  
 
 ---
 
-## 🎯 Aim • Vision • Future Roadmap
+## 🎯 Aim • Goal • Future Planning
 
 <table align="center">
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-### 🧭 Current Focus
+### 🚀 Current Overview
 
 🔹 **I’m working on:**  
-Building polished, scalable frontend applications with React, Tailwind & motion-driven UI.
+Clean, responsive, and animated frontend interfaces using React & Tailwind.
 
 🔹 **I’m exploring:**  
-Advanced UI/UX patterns, performance optimization, and full-stack MERN workflows.
+Advanced UI/UX patterns, performance optimization, and scalable MERN architecture.
 
 🔹 **I’m looking for:**  
 Opportunities to create a strong **career pathway** as a frontend / MERN developer.
 
 🔹 **I’m trying to:**  
-Level up daily through real-world projects, clean code, and design systems.
+Grow consistently through real-world projects, design systems, and clean code.
 
 <br/>
 
@@ -77,7 +72,7 @@ Level up daily through real-world projects, clean code, and design systems.
 
 </td>
 
-<td width="42%" align="center">
+<td width="40%" align="center">
 
 <img src="https://raw.githubusercontent.com/JoyChanda/Hello-1/main/assets/vision-card.svg" width="95%" />
 
@@ -185,11 +180,11 @@ Level up daily through real-world projects, clean code, and design systems.
 
 ---
 
-### 🎈 Fun Fact
+## ✨ Fun Fact  
 
 <p align="center">
-  I can spend hours perfecting a UI detail that most people won’t notice —  
-  but once you notice it, you can’t unsee it 😄✨
+  I can spend hours polishing tiny UI details —  
+  most users won’t notice them, but they *feel* the difference 😄✨
 </p>
 
 ---
