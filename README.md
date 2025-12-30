@@ -5,25 +5,25 @@
 </p>
 
 ---
-<h1 align="center">🔵🔴 Joy Chanda</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Joy+Chanda" />
+</p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=004D98&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;UI%2FUX+Designer;Designing+Clean+User+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;UI%2FUX+Designer;Designing+Clean+User+Experiences" />
 </h3>
 
 <p align="center">
-  <span style="color:#A50044;">🌌 Building beautiful UI by day</span>
-  &nbsp;|&nbsp;
-  <span style="color:#004D98;">Engineering logic by night ⚙️</span>
+  🌌 Building beautiful UI by day &nbsp;|&nbsp; Engineering logic by night ⚙️
 </p>
 
 ---
 
-
 ## 🧑‍💼 Mission Status
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Frontend%20%7C%20MERN-22c55e?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Frontend%20%7C%20MERN-38bdf8?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117"/>
 </p>
 
 <p align="center">
@@ -33,21 +33,57 @@
 
 ---
 
-<h2 align="center">🧑‍🚀 About Me</h2>
+## 🧑‍🚀 About Me
 
 <p align="center">
   I’m <b>Joy Chanda</b>, a frontend-focused <b>MERN Developer</b> & <b>UI/UX Designer</b> from Bangladesh 🇧🇩<br/>
   I build clean, scalable, and user-centric web applications with strong visual polish.
 </p>
 
-<h3 align="center">Recruiter Snapshot</h3>
-
 <p align="center">
-  ⚛️ <b>React + Tailwind specialist</b><br/>
-  🎨 <b>Design-first mindset</b><br/>
-  📊 <b>Dashboard & full-stack project experience</b>
+  ⚛️ React + Tailwind specialist <br/>
+  🎨 Design-first mindset <br/>
+  📊 Dashboard & full-stack project experience
 </p>
 
+---
+
+## 🎯 Aim • Vision • Future Roadmap
+
+<table align="center">
+<tr>
+<td width="58%" valign="top">
+
+### 🧭 Current Focus
+
+🔹 **I’m working on:**  
+Building polished, scalable frontend applications with React, Tailwind & motion-driven UI.
+
+🔹 **I’m exploring:**  
+Advanced UI/UX patterns, performance optimization, and full-stack MERN workflows.
+
+🔹 **I’m looking for:**  
+Opportunities to create a strong **career pathway** as a frontend / MERN developer.
+
+🔹 **I’m trying to:**  
+Level up daily through real-world projects, clean code, and design systems.
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/AIM-Frontend%20Excellence-38bdf8?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GOAL-Impactful%20Products-a78bfa?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://raw.githubusercontent.com/JoyChanda/Hello-1/main/assets/vision-card.svg" width="95%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -76,27 +112,23 @@
 ---
 
 ## 🛠️ Tech Stack
+
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="45"/><br>Vue.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br/>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br/>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br/>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="45"/><br/>Vue</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>Firebase</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ps" width="45"/><br>Photoshop</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="45"/><br>C Lang</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br/>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br/>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br/>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br/>Figma</td>
   </tr>
 </table>
 
@@ -121,42 +153,21 @@
 ## 🐍 Contribution Trail
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/JoyChanda/Hello-1/output/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/JoyChanda/Hello-1/output/output/github-contribution-grid-snake-dark.svg"
-         width="720" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/JoyChanda/Hello-1/output/output/github-contribution-grid-snake-dark.svg"
+       width="720" />
 </p>
 
-<p align="center"><sub>🐍 Commits flowing through time</sub></p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=joychanda&bg_color=0d1117&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true"
-    width="100%" />
-</p>
-
-<p align="center"><sub>Consistency & momentum over the year</sub></p>
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joychanda/Hello-1/main/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<p align="center"><sub>Commits flowing through time 🐍</sub></p>
 
 ---
 
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=joychanda&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joychanda&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoyChanda&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&icon_color=22d3ee&hide_border=true" />
+  <img height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoyChanda&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&hide_border=true" />
 </p>
 
 ---
@@ -170,6 +181,15 @@
   <a href="https://github.com/joychanda">
     <img src="https://skillicons.dev/icons?i=github" width="42"/>
   </a>
+</p>
+
+---
+
+### 🎈 Fun Fact
+
+<p align="center">
+  I can spend hours perfecting a UI detail that most people won’t notice —  
+  but once you notice it, you can’t unsee it 😄✨
 </p>
 
 ---
