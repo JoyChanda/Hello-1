@@ -176,7 +176,6 @@ Grow consistently through real-world projects, design systems, and clean code.
         src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:a78bfa&height=2"
       />
       <br/><br/>
-
       <a href="https://www.linkedin.com/in/joy-chanda/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
       </a>
@@ -184,11 +183,9 @@ Grow consistently through real-world projects, design systems, and clean code.
       <a href="https://github.com/joychanda" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" width="48"/>
       </a>
-
       <br/><br/>
       <sub>Let’s connect & build something meaningful 🚀</sub>
       <br/><br/>
-
       <img
         src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,100:38bdf8&height=2"
       />
