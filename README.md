@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.licdn.com/dms/image/v2/D5616AQEP1v5GY8vnOQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqYixoQHQAc-/0/1763495848462?e=1767830400&v=beta&t=bWGnbIhLPRp94bHqbuoFeH5PzF-5tRxg8LEpNAZAUak](https://media.licdn.com/dms/image/v2/D5616AQF6CLxWliAScA/profile-displaybackgroundimage-shrink_350_1400/B56Ztw0zurKgAY-/0/1767124453470?e=1768435200&v=beta&t=hu5FibnUjlSpafq-sm03zoijLzL8ZzqDNx2tKx-wWcc)"
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQF6CLxWliAScA/profile-displaybackgroundimage-shrink_350_1400/B56Ztw0zurKgAY-/0/1767124453470?e=1768435200&v=beta&t=hu5FibnUjlSpafq-sm03zoijLzL8ZzqDNx2tKx-wWcc"
        alt="Joy Chanda Banner"
        width="100%" />
 </p>
